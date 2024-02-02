@@ -1,0 +1,14 @@
+Mathematics branch that studies rate of change.
+Science of secret writing to keep the data secret.
+Used in digital signal processing. Encoding Width of pulse.
+Microcontroller unit used in controlling electronic components.
+Core component of an operating system.
+Variable storing the memory address of another variable.
+Testing technique to identify software defects.
+Data providing information about other data.
+Technique for mapping data of arbitrary size to fixed-size values.
+Semiconductor device allowing current to flow in one direction only.
+Electronic component that maintains a constant output voltage.
+Compact Circuit that has interconnected transistors and other components.
+Electronic component storing electrical energy in an electric field.
+Electrical component that limits the flow of electric current.

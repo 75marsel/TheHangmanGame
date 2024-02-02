@@ -1,0 +1,9 @@
+Images License
+
+Copyright (c) 2023 Jeric Marcel
+
+The images included in this repository are the exclusive property of Gappi, Jeric Marcel and are protected by copyright law. You are granted the right to use, and distribute the images subject to the following conditions:
+
+1. Redistributions of the images or any derivative works must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+2. Commercial use or redistribution of the images is not permitted without prior written permission from the copyright holder.
